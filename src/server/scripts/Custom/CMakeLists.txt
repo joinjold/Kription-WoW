@@ -30,7 +30,7 @@ Custom/eventcommandscript.cpp
 Custom/chat_censure.cpp
 Custom/npc_token.cpp
 Custom/gamble.cpp
-Custom/announce_login.cpp
+
 Custom/Boss_Announcer.cpp
 custom/Duel_Reset.cpp
 custom/npc_title.cpp
