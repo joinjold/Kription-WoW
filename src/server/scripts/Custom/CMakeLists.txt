@@ -32,8 +32,8 @@ Custom/npc_token.cpp
 Custom/gamble.cpp
 Custom/announce.cpp
 Custom/announce_current.cpp
-custom/Duel_Reset.cpp
-custom/npc_title.cpp
+Custom/Duel_Reset.cpp
+Custom/npc_title.cpp
 
 )
 
